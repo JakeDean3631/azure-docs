@@ -88,7 +88,7 @@ Azure Government DoD services may be purchased by qualified entities through the
 No contractual modifications will be required for Enterprise Agreement customers already using Azure Government.  
 
 ### How are the DoD regions priced? 
-The DoD regions utilize region based pricing.  This means that service costs for validated DoD customers will be based on the Azure Government region in which you run your workloads.  For more specific pricing information, please consultant your Microsoft Account Executive.  Pricing for the DoD regions will be provided through the Azure.com calculator at a future date.
+The DoD regions utilize region based pricing.  This means that service costs for validated DoD customers will be based on the Azure Government region in which you run your workloads.  For more specific pricing information, please consult your Microsoft Account Executive.  Pricing for the DoD regions will be provided through the Azure.com calculator at a future date.
 
 ### How does a DoD organization get validated for the Azure Government DoD regions? 
 In order to gain access to the Azure DoD regions, customers must complete a pre-qualification process for verifying their organization and intended use of the Azure DoD environment.  After successful completion of the pre-qualification process, Microsoft will provide the organizational applicant with further instructions for creating a subscription, accessing the environment and providing role-based access control to other members of the organization.
